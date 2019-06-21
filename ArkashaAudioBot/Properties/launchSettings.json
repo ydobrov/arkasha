@@ -1,0 +1,29 @@
+{
+  "iisSettings": {
+    "windowsAuthentication": false,
+    "anonymousAuthentication": true,
+    "iisExpress": {
+      "applicationUrl": "http://localhost:51861",
+      "sslPort": 0
+    }
+  },
+  "profiles": {
+    "IIS Express": {
+      "commandName": "IISExpress",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    },
+    "ArkashaAudioBot": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "Key": "Value",
+        "BotToken": "830285364:AAH0vIi3xHRaOpFrDh75WOCeFogY8mCu8P8",
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "http://localhost:51862"
+    }
+  }
+}
